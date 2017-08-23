@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "LHUtilityCode"
-  s.version      = "0.0.1"
-  s.summary      = "A short description of LHUtilityCode."
+  s.version      = "1.0.0"
+  s.summary      = "A delightful setting interface framework."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -39,7 +39,7 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = 'MIT'
+  s.license      = { :type => "MIT", :file => "LICENSE" }
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
@@ -56,7 +56,7 @@ Pod::Spec.new do |s|
   s.author             = { "lh_w" => "wlh123@vip.qq.com" }
   # Or just: s.author    = "lh_w"
   # s.authors            = { "lh_w" => "wlh123@vip.qq.com" }
-  # s.social_media_url   = "http://twitter.com/lh_w"
+  # s.social_media_url   = "http://weibo.com/u/5348162268"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
