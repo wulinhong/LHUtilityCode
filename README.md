@@ -1,3 +1,11 @@
-# wlhCategory
+# LHUtilityCode
 
-开发中一定会用到的实用一些分类  加快开发速度 
+LHUtilityCode
+Provides a few utility codes for iOS.
+
+Requirements
+
+Requires iOS 7.0 or later
+Requires Automatic Reference Counting (ARC)
+Installation
+
