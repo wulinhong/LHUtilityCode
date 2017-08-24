@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "LHUtilityCode"
   s.version      = "1.0.0"
-  s.summary      = "A delightful setting interface framework."
+  s.summary      = "Utility codes for iOS."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/wulinhong/LHUtilityCode", :tag => s.version }
+  s.source       = { :git => "https://github.com/wulinhong/LHUtilityCode", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
